@@ -1,6 +1,6 @@
 # fe-team-spa-boilerplate
 
-> A boilerplate for fe team (Based on official webpack template)
+> A boilerplate for fe team (Based on vue official webpack template)
 
 ## Build Setup
 

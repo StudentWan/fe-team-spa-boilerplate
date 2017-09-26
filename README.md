@@ -32,5 +32,8 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 ## Info
 
 - [x] eslint(Use EFE Code Style) 完成
-- [ ] Vuex配置
-- [ ] iView配置
+- [x] iView配置
+- [x] Scss配置
+- [x] Scss全局变量文件配置
+- [x] Vuex配置
+

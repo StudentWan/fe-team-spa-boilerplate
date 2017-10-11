@@ -7,7 +7,7 @@
 import Vue from 'vue'
 import iView from 'iview'
 import 'iview/dist/styles/iview.css'
-import '../iview-theme/index.less'
+import './assets/iview-theme/index.less'
 import App from './App.vue'
 import router from './router'
 import store from './store'
